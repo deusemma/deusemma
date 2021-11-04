@@ -9,5 +9,5 @@
     </ol>
 </nav>
 <h2>Personal Info</h2>
-<p>I live in Argentina</p>
-<p>+15 y/o</p>
+<p>🇺🇸 Hi!, I'm Emma, developer dedicated to Frontend & little bit of Backend, I was born in Argentina and I have +15 y/o. I love teamwork, learning and practicing to improve daily <br> 🇪🇸 ¡Hola!, Soy Emma, me dedico al desarollo en Frontend y un poco al Backend, Naci en Argentina y tengo +15 años de edad. Ammo el trabajo en equipo, aprender y practicar para mejorar diariamente</p>
+
